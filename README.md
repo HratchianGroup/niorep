@@ -29,7 +29,7 @@ output: NIO-GroundState.fchk
 
 * The matrix U can be determined by solving the eigenvalue equation. The eigenvalues represent the occupation change number for each NIO
 
-  <img src="images/eqn1.png" width="150">
+  <img src="images/eqn4.png" width="270">
 
 * The eigenvectors U can then be back transformed to the AO basis to give NIO coefficients V
 
