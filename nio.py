@@ -38,8 +38,9 @@ def symmetrize(a):
 
 #Function: convert output to scientific notation
 def sci_notation(n):
+#    n = np.real(n)
     a = '%.8E' % n
-    return '%.8E' % Decimal(n)
+    return '%.8E' % np.real(n)
 #    return a.split('E')[0].rstrip('0').rstrip('.') + 'E' + a.split('E')[1]
 
 
