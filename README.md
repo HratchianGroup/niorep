@@ -2,9 +2,9 @@
 
 ### Introduction
 
-A compact orbital representation of ionization processes is described utilizing the difference of calculated one-particle density matrices. Natural orbital analysis involving this difference density matrix simplifies interpretation of electronic detachment processes and allows differentiation between one-electron transitions and shake-up/shake-off transitions, in which one-electron processes are accompanied by excitation of a second electron into the virtual orbital space.
+A compact orbital representation of ionization processes is described utilizing the difference of calculated one-particle density matrices. Natural orbital analysis involving this difference density matrix simplifies interpretation of electronic detachment processes and allows differentiation between one-electron transitions and cases where electron detachment is accompanied by further relaxation. In some cases, large degrees of orbtial relaxation may be interpretted as shake-up/down transitions or pseudo two-electron processes.
 
-*J. Chem. Phys. 144, 204117, (2016)*
+L. M. Thompson, H. Harb, H. P. Hratchian, _J. Chem. Phys._ __144__, 204117 (2016).
 
 ### Use of the NIO Program
 
