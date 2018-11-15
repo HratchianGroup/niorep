@@ -1,4 +1,4 @@
-# Natural Ionization Orbitlals
+# Natural Ionization Orbitals
 
 ### Introduction
 
